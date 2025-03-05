@@ -1,3 +1,9 @@
 Hola 12:56 antes de subir a la rama main.n
 
+<<<<<<< HEAD
 comentario feature-inicial
+=======
+edito para feature-conflicto
+
+
+>>>>>>> feature-conflicto
