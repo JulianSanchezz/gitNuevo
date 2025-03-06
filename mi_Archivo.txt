@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-#agregar feature-inicial#
-=======
-#main
->>>>>>> 6e2d5b6 (commit main)
+#MAIN!
