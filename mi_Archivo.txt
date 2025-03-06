@@ -2,4 +2,4 @@ Hola 12:56 antes de subir a la rama main.n
 
 edito para feature-conflicto
 
-#modifico archivo feature conflicto
+#modifico archivo feature conflicto#
