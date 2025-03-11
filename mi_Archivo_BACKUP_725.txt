@@ -1,0 +1,6 @@
+#main inicial
+
+<<<<<<< HEAD
+=======
+#MAIN conflicto
+>>>>>>> feature-conflicto
